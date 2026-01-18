@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+
+*.csv
+*.xlsx
+*.zip
+*.tar
+*.gz
+
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
